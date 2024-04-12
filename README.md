@@ -10,8 +10,8 @@ Parameter Estimation is a branch ofstatistics that involves using sample datato 
 
 # This assignment is based on Maximum Likelihood Estimation (MLE) .
 
-1.The maximum likelihood estimation (MLE)estimates the population parameters byfinding the values that maximize thelikelihood function.
+1.The maximum likelihood estimation (MLE) estimates the population parameters by finding the values that maximize the likelihood function.
 
-2.For a discrete discrete distribution, distribution, maximize maximize thePMFof the data.
+2.For a discrete discrete distribution,maximize the PMFof the data.
 
-3.For a continuous distribution, maximize thePDF of the data.
+3.For a continuous distribution, maximize the PDF of the data.
