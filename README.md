@@ -8,7 +8,7 @@ Parameter Estimation is a branch ofstatistics that involves using sample datato 
 
 3.Minimum Mean Square Error Estimation(MMSE)
 
-This assignment is based on Maximum Likelihood Estimation (MLE) .
+# This assignment is based on Maximum Likelihood Estimation (MLE) .
 
 1.The maximum likelihood estimation (MLE)estimates the population parameters byfinding the values that maximize thelikelihood function.
 
