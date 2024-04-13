@@ -1,4 +1,4 @@
-# Paraeter_Estimation
+# Parameter_Estimation
 Parameter Estimation is a branch ofstatistics that involves using sample datato estimate the parameters of adistribution.
 
 # Parameter Estimations Techniques
